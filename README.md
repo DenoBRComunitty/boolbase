@@ -1,4 +1,4 @@
-# boolbase
+# boolbase | https://denobr.com
 Only two functions: one that returns true, one that returns false
 
 ## Why
